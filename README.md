@@ -1,4 +1,4 @@
-# rawgrad
+# minigrad
 
 A from-scratch automatic differentiation engine written in pure C. No frameworks. No dependencies. No Python. Just raw C, manual memory management, and reverse-mode autodiff.
 
